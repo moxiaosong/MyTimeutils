@@ -1,0 +1,2 @@
+include ':app', ':count-down-timer'
+rootProject.name='MyTimeutils'
